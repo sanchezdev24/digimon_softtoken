@@ -1,16 +1,32 @@
-# digimon_softtoken
 
-Its a proyect test for stratplus
+# Digimon Examen
 
-## Getting Started
+Esto es una app en flutter que sirve como examen para la compani StratPlus
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Instrucciones de uso
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To deploy this project run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  clonar el repositorio
+```
+
+```bash
+  en la ruta raiz del repositorio ejecutar pub update
+```
+
+```bash
+  Ejecutar flutter run
+```
+
+
+## Authors
+
+- [@romudev](https://www.linkedin.com/in/romudev/)
+
+
+## Complicaciones y entretenimientos
+
+Para mi fue entretenido y algo dificil el trabajar encriptados y desncriptados del lado nativo, no con los mehtod channel en si con el codigo nativo, aunque la im plementacion de servicios de firebase no fue tan dificil
+
