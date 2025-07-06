@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAmudEYwQQ5mJ3F8v_dwcboeX5HCYwAqsw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941666596090</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stratplus.digimonSofttoken</string>
+	<key>PROJECT_ID</key>
+	<string>test-stratplus</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-stratplus.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941666596090:ios:a6da28e2f782f8d6c54543</string>
+</dict>
+</plist>

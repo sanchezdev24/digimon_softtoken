@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941666596090",
+    "project_id": "test-stratplus",
+    "storage_bucket": "test-stratplus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941666596090:android:e9c4075cc50fd9bbc54543",
+        "android_client_info": {
+          "package_name": "com.stratplus.digimon_softtoken"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLUHMk_RhQHM3brnyID0kFH7XMpc9CUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
