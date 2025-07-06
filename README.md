@@ -8,16 +8,19 @@ Esto es una app en flutter que sirve como examen para la compani StratPlus
 
 To deploy this project run
 
+clonar el repositorio
 ```bash
-  clonar el repositorio
+  git clone https://github.com/sanchezdev24/digimon_softtoken.git
 ```
 
+en la ruta raiz del repositorio ejecutar pub update
 ```bash
-  en la ruta raiz del repositorio ejecutar pub update
+  flutter pub upgrade
 ```
 
+Ejecutar flutter run
 ```bash
-  Ejecutar flutter run
+  flutter run
 ```
 
 
